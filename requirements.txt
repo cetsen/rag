@@ -1,0 +1,14 @@
+fsspec[http]==2024.6.1
+gcsfs==2024.6.1
+protobuf<6
+transformers
+accelerate
+safetensors
+huggingface_hub
+qdrant-client==1.9.1
+sentence-transformers==3.2.1
+sacrebleu==2.4.2
+rouge-score==0.1.2
+tiktoken==0.7.0
+psutil==6.0.0
+datasets==3.0.1
